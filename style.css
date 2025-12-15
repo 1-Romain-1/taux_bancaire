@@ -44,7 +44,7 @@ button {
 
 button:hover {
   background-color: #6bbb5b;
-  transform: scale(1.1)
+  transform: scale(1.2)
 }
 
 input {
